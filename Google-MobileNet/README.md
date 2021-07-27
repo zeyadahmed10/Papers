@@ -9,5 +9,7 @@ The number of input channels is thus the same as the number of output channels b
 # Point Wise
 Is a normal Convolution a filter per output channel.
 The filter size is 1x1.
+
+Return the interaction between channels.
 # Refrences
 * [Google MobileNet Paper](https://arxiv.org/pdf/1704.04861.pdf)
